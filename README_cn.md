@@ -34,6 +34,15 @@
 
 [报名问卷](https://iz9a87wn37.feishu.cn/share/base/form/shrcnwpiyWaVUzyo47QdPBGy5Yd)
 
+通过PR进行测试代码和测试报告的提交，在本仓库中的tests目录下创目录（你名字的汉语拼音全称），然后在其中放入测试代码和测试报告。
+```bash
+tests/
+└── your_name
+    ├── test_code
+    │   └── test_code.py
+    └── test_report.pdf_or_word
+```
+
 
 ## 加入讨QQ论群: 600480230
 

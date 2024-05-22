@@ -34,6 +34,14 @@ Please visit the following link to sign up for this activity:
 
 [Registration Form](https://iz9a87wn37.feishu.cn/share/base/form/shrcnwpiyWaVUzyo47QdPBGy5Yd)
 
+Submit your test code and test report through a Pull Request (PR). In the 'tests' directory of this repository, create a new directory (named with the full pinyin of your Chinese name), and then place your test code and test report in it.
+```bash
+tests/
+└── your_name
+    ├── test_code
+    │   └── test_code.py
+    └── test_report.pdf_or_word
+```
 
 ## Join the QQ Discussion Group: 600480230
 
